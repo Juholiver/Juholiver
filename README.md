@@ -5,7 +5,6 @@
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juholiver.github.io/cv/)
 
 ![Juholiver GitHub stats](https://github-readme-stats.vercel.app/api?username=Juholiver&show_icons=true&theme=dark)
-
 [![Juholiver Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juholiver)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
