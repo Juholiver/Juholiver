@@ -2,7 +2,7 @@
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-oliveira-919bba21b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junior_oli_?igshid=MzRlODBiNWFlZA==)
-[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juholiver.github.io/cv/)
+[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juholiver.github.io/portifolioo/)
 
 ![Juholiver GitHub stats](https://github-readme-stats.vercel.app/api?username=Juholiver&show_icons=true&theme=dark)
 [![Juholiver Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juholiver)](https://github.com/anuraghazra/github-readme-stats)
