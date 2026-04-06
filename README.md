@@ -83,17 +83,8 @@ MongoDB • MySQL • SQL Server • Supabase
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Juholiver&show_icons=true&theme=dracula" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juholiver&layout=compact&theme=tokyonight" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.app/?user=Juholiver&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juholiver&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juholiver&layout=compact&theme=tokyonight&hide_border=false" />
 </div>
 ---
 
