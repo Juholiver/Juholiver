@@ -82,9 +82,9 @@ MongoDB • MySQL • SQL Server • Supabase
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juholiver&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juholiver&layout=compact&theme=tokyonight" />
+<<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juholiver&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juholiver&layout=compact&theme=tokyonight" />
 </div>
 ---
 
