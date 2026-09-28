@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-oliveira-919bba21b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junior_oli_/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juholiver.github.io/portifolioo/)
+[![Portfólio]([https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juholiver.github.io/portifolioo/](https://portifolioreact-murex.vercel.app/))
 
 ---
 
@@ -82,9 +82,16 @@ MongoDB • MySQL • SQL Server • Supabase
 
 ## 📊 Estatísticas GitHub
 
-<<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juholiver&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juholiver&layout=compact&theme=tokyonight" />
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Juholiver&show_icons=true&theme=tokyonight"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juholiver&layout=compact&theme=tokyonight"
+  />
 </div>
 ---
 
