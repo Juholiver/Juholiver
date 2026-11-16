@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor Full Stack Júnior Angular • React • .NET • Node.js • NextJS • Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joseoliveira-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseoliveira-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junior_oli_/)
 [![Portfólio]([https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolioreact-murex.vercel.app/))
 
@@ -98,8 +98,8 @@ MongoDB • MySQL • SQL Server • Supabase
 ## 📫 Contato
 
 📧 Email: juholiver3@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-oliveira-919bba21b/
-💼 Portfolio: https://juholiver.github.io/portifolioo/
+💼 LinkedIn: https://www.linkedin.com/in/joseoliveira-dev
+💼 Portfolio: [https://juholiver.github.io/portifolioo/](https://portifolioreact-murex.vercel.app/)
 
 ---
 
