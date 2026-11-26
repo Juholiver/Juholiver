@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="José Mário — Full Stack Developer" />
+  <img src="assets/Banner.png" alt="José Mário — Full Stack Developer" />
 </div>
 
 <h2 align="center">About Me</h2>
