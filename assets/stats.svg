@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 452" width="840" height="452" role="img" aria-labelledby="stats-title">
+  <title id="stats-title">Linguagens e atividade do GitHub de Juholiver</title>
+  <defs>
+    <linearGradient id="legend" x1="0" y1="0" x2="1" y2="0"><stop offset="0.000" stop-color="#8b5cf6"/><stop offset="0.200" stop-color="#ec4899"/><stop offset="0.400" stop-color="#3b82f6"/><stop offset="0.600" stop-color="#f7df1e"/><stop offset="0.800" stop-color="#e44d26"/><stop offset="1.000" stop-color="#178600"/></linearGradient>
+  </defs>
+  <rect x="0" y="0" width="410" height="344" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="18" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3fb950">Radar de linguagens</text>
+  <polygon points="205.0,160.0 230.0,185.0 205.0,210.0 180.0,185.0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <polygon points="205.0,135.0 255.0,185.0 205.0,235.0 155.0,185.0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <polygon points="205.0,110.0 280.0,185.0 205.0,260.0 130.0,185.0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <polygon points="205.0,85.0 305.0,185.0 205.0,285.0 105.0,185.0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <line x1="205" y1="185" x2="205.0" y2="85.0" stroke="#30363d" stroke-width="1"/>
+  <line x1="205" y1="185" x2="305.0" y2="185.0" stroke="#30363d" stroke-width="1"/>
+  <line x1="205" y1="185" x2="205.0" y2="285.0" stroke="#30363d" stroke-width="1"/>
+  <line x1="205" y1="185" x2="105.0" y2="185.0" stroke="#30363d" stroke-width="1"/>
+  <polygon points="205.0,85.0 284.4,185.0 205.0,245.9 158.0,185.0" fill="#3fb950" fill-opacity="0.22" stroke="#3fb950" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="205.0" cy="85.0" r="3.5" fill="#3fb950"/>
+  <circle cx="284.4" cy="185.0" r="3.5" fill="#3fb950"/>
+  <circle cx="205.0" cy="245.9" r="3.5" fill="#3fb950"/>
+  <circle cx="158.0" cy="185.0" r="3.5" fill="#3fb950"/>
+  <text x="205.0" y="63.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">TypeScript</text>
+  <text x="321.0" y="189.0" text-anchor="start" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">CSS</text>
+  <text x="205.0" y="317.0" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Python</text>
+  <text x="89.0" y="189.0" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">JavaScript</text>
+  <text x="205" y="336" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Proporção de código por linguagem, escala raiz quadrada</text>
+  
+  <rect x="430" y="0" width="410" height="344" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="448" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3fb950">Principais linguagens</text>
+  <rect x="448" y="46" width="374" height="6" rx="3" fill="url(#legend)"/>
+  
+  <circle cx="454" cy="78" r="5" fill="#8b5cf6"/>
+  <text x="468" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">TypeScript</text>
+  <text x="822" y="82" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3">37%</text>
+  <rect x="448" y="94" width="374" height="8" rx="4" fill="#21262d"/>
+  <rect x="448" y="94" width="374.0" height="8" rx="4" fill="#8b5cf6"/>
+  <circle cx="454" cy="140" r="5" fill="#ec4899"/>
+  <text x="468" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">CSS</text>
+  <text x="822" y="144" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3">24%</text>
+  <rect x="448" y="156" width="374" height="8" rx="4" fill="#21262d"/>
+  <rect x="448" y="156" width="235.7" height="8" rx="4" fill="#ec4899"/>
+  <circle cx="454" cy="202" r="5" fill="#3b82f6"/>
+  <text x="468" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Python</text>
+  <text x="822" y="206" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3">14%</text>
+  <rect x="448" y="218" width="374" height="8" rx="4" fill="#21262d"/>
+  <rect x="448" y="218" width="138.7" height="8" rx="4" fill="#3b82f6"/>
+  <circle cx="454" cy="264" r="5" fill="#f7df1e"/>
+  <text x="468" y="268" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">JavaScript</text>
+  <text x="822" y="268" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e6edf3">8.2%</text>
+  <rect x="448" y="280" width="374" height="8" rx="4" fill="#21262d"/>
+  <rect x="448" y="280" width="82.5" height="8" rx="4" fill="#f7df1e"/>
+  <text x="448" y="336" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">atualizado em 2026-11-26</text>
+  
+  <rect x="0" y="360" width="198" height="92" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="99" y="392" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Repositórios</text>
+  <text x="99" y="434" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#3fb950">69</text>
+  <rect x="214" y="360" width="198" height="92" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="313" y="392" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Commits no último ano</text>
+  <text x="313" y="434" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#3fb950">265</text>
+  <rect x="428" y="360" width="198" height="92" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="527" y="392" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Pull requests</text>
+  <text x="527" y="434" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#3fb950">0</text>
+  <rect x="642" y="360" width="198" height="92" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="741" y="392" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Estrelas recebidas</text>
+  <text x="741" y="434" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#3fb950">0</text>
+</svg>

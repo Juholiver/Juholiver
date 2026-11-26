@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="footer-title">
+  <title id="footer-title">Arte decorativa de código</title>
+  <defs>
+    <radialGradient id="centerGlow" cx="0.5" cy="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.28"/>
+      <stop offset="0.5" stop-color="#0e7490" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#0e7490" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="0.5" cy="0.5">
+      <stop offset="0.55" stop-color="#04070a" stop-opacity="0"/>
+      <stop offset="1" stop-color="#04070a" stop-opacity="0.85"/>
+    </radialGradient>
+    <filter id="glyphGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="9" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="400" fill="#04070a"/>
+
+  <!-- linhas de código de fundo -->
+  <g font-family="'Courier New', Courier, monospace" font-size="15" fill="#10b981">
+    <text x="30" y="36" opacity="0.14">const stack = ["react", "angular", "nextjs", ".net", "node"];</text>
+    <text x="30" y="68" opacity="0.11">app.post("/api/auth", authMiddleware, loginHandler);</text>
+    <text x="30" y="100" opacity="0.15">export default function Page() { return &lt;Dashboard /&gt;; }</text>
+    <text x="30" y="132" opacity="0.1">SELECT * FROM users WHERE active = true ORDER BY id;</text>
+    <text x="30" y="164" opacity="0.13">await db.collection("pets").insertOne({ name, owner });</text>
+    <text x="30" y="196" opacity="0.1">git commit -m "feat: integracao com IA e JWT auth"</text>
+    <text x="30" y="228" opacity="0.14">npm run build &amp;&amp; vercel deploy --prod</text>
+    <text x="30" y="260" opacity="0.11">public class ApiAuthController : ControllerBase { }</text>
+    <text x="30" y="292" opacity="0.15">router.get("/produtos", cache(60), listProducts);</text>
+    <text x="30" y="324" opacity="0.1">docker build -t app:latest . &amp;&amp; docker push registry/app</text>
+    <text x="30" y="356" opacity="0.13">if (user.role === "admin") return grantAccess(user);</text>
+  </g>
+
+  <!-- circuitos convergindo para o centro -->
+  <g fill="none" stroke="#0e7490" stroke-width="2" opacity="0.75">
+    <polyline points="0,120 140,120 140,200 470,200"/>
+    <polyline points="1200,280 1060,280 1060,200 730,200"/>
+    <polyline points="0,320 80,320 80,250 240,250 240,220 470,220"/>
+    <polyline points="1200,80 1120,80 1120,150 960,150 960,180 730,180"/>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="140" cy="120" r="4"/>
+    <circle cx="140" cy="200" r="4"/>
+    <circle cx="1060" cy="280" r="4"/>
+    <circle cx="1060" cy="200" r="4"/>
+    <circle cx="240" cy="250" r="4"/>
+    <circle cx="960" cy="150" r="4"/>
+  </g>
+
+  <!-- brilho central -->
+  <circle cx="600" cy="200" r="170" fill="url(#centerGlow)"/>
+
+  <!-- glifo </> -->
+  <text x="600" y="250" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="140" font-weight="700" fill="#67e8f9" filter="url(#glyphGlow)">&lt;/&gt;</text>
+
+  <!-- vinheta -->
+  <rect width="1200" height="400" fill="url(#vignette)"/>
+</svg>
