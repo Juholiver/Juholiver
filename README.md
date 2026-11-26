@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="assets/Banner.jpg" alt="José Mário — Full Stack Developer" />
+  <img src="assets/Banner.jpg" alt="José Mário — Desenvolvedor Full Stack" />
 </div>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">Sobre mim</h2>
 
-I'm José Mário, a Full Stack developer from Brazil 🇧🇷 — I turn problems into digital products.
+Sou **José Mário**, desenvolvedor Full Stack do Brasil 🇧🇷 — transformo problemas reais em produtos digitais.
 
-- 🔧 **Building now:** SaaS and e-commerce apps with **React, Angular & Next.js**
-- 🛠️ **Backend:** **.NET, Node.js & Python** — REST APIs, JWT and cloud
-- 🎯 **Focus:** scalable architecture, AI integration and clean code
-- 💼 **Open to opportunities** — questions? Feel free to reach out!
+- 🚀 **Em produção:** e-commerce e SaaS (Next.js • MongoDB Atlas • Supabase)
+- 🛠️ **Stack:** React, Angular, .NET, Node.js, TypeScript e Python
+- 🎯 **Foco:** APIs REST, autenticação JWT, cloud e integração com IA
+- 💼 **Aberto a oportunidades** — fale comigo!
 
-<h2 align="center">Languages and activity</h2>
+<h2 align="center">Linguagens e atividade</h2>
 
 <div align="center">
   <img src="assets/stats.svg" alt="Radar de linguagens e estatísticas de atividade" />
 </div>
 
-<h2 align="center">Contacts</h2>
+<h2 align="center">Contatos</h2>
 
 <div align="center">
   <a href="https://instagram.com/junior_oli_/"><img src="https://img.shields.io/badge/INSTAGRAM-0f766e?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
