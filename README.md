@@ -11,6 +11,19 @@ Sou **José Mário**, desenvolvedor Full Stack do Brasil 🇧🇷 — transformo
 - 🎯 **Foco:** APIs REST, autenticação JWT, cloud e integração com IA
 - 💼 **Aberto a oportunidades** — fale comigo!
 
+<h2 align="center">Projetos em destaque</h2>
+
+<div align="center">
+
+| | Projeto | Descrição | |
+|:---:|:---|:---|:---:|
+| ⚙️ | **ForgeOps** | Plataforma de monitoramento e observabilidade de APIs | [![Acessar](https://img.shields.io/badge/ACESSAR-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://forge-ops-three.vercel.app/login) |
+| 🐾 | **ProVet** | App de gestão para clínicas veterinárias | [![Acessar](https://img.shields.io/badge/ACESSAR-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://provet-itape.vercel.app/) |
+| 🏋️ | **WinterForge** | App de academia para treinos e evolução | [![Acessar](https://img.shields.io/badge/ACESSAR-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://winterforge-rho.vercel.app/) |
+| 🛍️ | **SFP** | E-commerce de produtos personalizados | [![Acessar](https://img.shields.io/badge/ACESSAR-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://sfp-nine.vercel.app/login) |
+
+</div>
+
 <h2 align="center">Linguagens e atividade</h2>
 
 <div align="center">
